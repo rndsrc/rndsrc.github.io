@@ -3,7 +3,7 @@
 help:
 	@echo "Please use 'make <target>' where <target> is one of:"
 	@echo "  install     to install the necessary dependencies for jupyter-book to build"
-	@echo "  book        to convert the `content/` folder into Jekyll markdown in `_build/`"
+	@echo "  book        to convert the 'content/' folder into Jekyll markdown in '_build/'"
 	@echo "  runall      to run all notebooks in-place, capturing outputs with the notebook"
 	@echo "  clean       to clean out site build files"
 	@echo "  serve       to serve the repository locally with Jekyll"
@@ -31,10 +31,11 @@ build:
 	touch _site/.nojekyll
 
 publish:
+	if [ x`git rev-parse --abbrev-ref HEAD` != x"develop" ]; then exit 1; fi
 	git checkout -b master
 	jupyter-book toc . && jupyter-book build .
 	git add .
 	git commit -m 'Result of `jupyter-book toc . && jupyter-book build .`'
 	git push --force --set-upstream origin master
 	git checkout develop
-	git branch -d master
+	git branch -D master
