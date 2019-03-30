@@ -18,10 +18,13 @@
 
 # ===== TOP LEVEL ========================================
 - title:    Home
-  url:      home
+  url:      /home
+  sections:
+  - title:    New Website
+    url:      /blog/new-website
 
 - title:    About
-  url:      about
+  url:      /about
 
 - title:    GitHub
   url:      https://github.com/rndsrc
