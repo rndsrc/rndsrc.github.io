@@ -17,7 +17,7 @@
 <p>
   Website: <a href="https://rndsrc.dev">https://rndsrc.dev</a><br/>
   GitHub:  <a href="https://github.com/rndsrc">https://github.com/rndsrc</a><br/>
-  E-mail:  <a href="mailto:chanc@email.arizona.edu">chanc\at\email\dot\arizona\dot\edu</a><br/>
+  E-mail:  <a href="mailto:chanc@email.arizona.edu">chanc/at/email/dot/arizona/dot/edu</a><br/>
   PGP public key:
     <a href="http://fermi.myds.me/pgp_keys/7B60CA8A.txt">view</a>,
     <a href="http://fermi.myds.me/pgp_keys/7B60CA8A.asc">download</a>
