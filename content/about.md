@@ -1,6 +1,6 @@
 # About
 
-<img class="alignleft size-medium wp-image-266" src="http://fermi.myds.me/wordpress/wp-content/uploads/2015/12/ckchan_2015-199x300.jpg" alt="CK Chan" width="199" height="300" />
+![CK Chan](images/2010/Bikexus/DSC_7876.jpg)
 
 陳 志均<br/>
 Chi-kwan CHAN
