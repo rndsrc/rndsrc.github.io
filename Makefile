@@ -33,9 +33,9 @@ build:
 publish:
 	if [ x`git rev-parse --abbrev-ref HEAD` != x"develop" ]; then exit 1; fi
 	git checkout -b master
-	jupyter-book toc . && jupyter-book build .
+	jupyter-book build .
 	git add .
-	git commit -m 'Result of `jupyter-book toc . && jupyter-book build .`'
+	git commit -m 'Result of `jupyter-book build .`'
 	git push --force --set-upstream origin master
 	git checkout develop
 	git branch -D master
