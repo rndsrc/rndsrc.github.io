@@ -1,4 +1,4 @@
-# About
+# Bio
 
 <table><tr>
 <td style="width:40%;border:0;padding:0"><img src="images/2010/Bikexus/DSC_7876.jpg" alt="CK Chan" /></td>
