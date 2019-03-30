@@ -21,8 +21,7 @@
   url:      home
 
 - title:    About
-  url:      http://fermi.myds.me/about/
-  external: true
+  url:      about
 
 - title:    GitHub
   url:      https://github.com/rndsrc
