@@ -31,11 +31,11 @@ build:
 	touch _site/.nojekyll
 
 publish:
-	if [ x`git rev-parse --abbrev-ref HEAD` != x"develop" ]; then exit 1; fi
+	if [ x`git rev-parse --abbrev-ref HEAD` != x"book" ]; then exit 1; fi
 	git checkout -b master
 	jupyter-book build .
 	git add .
 	git commit -m 'Result of `jupyter-book build .`'
 	git push --force --set-upstream origin master
-	git checkout develop
+	git checkout book
 	git branch -D master
