@@ -23,8 +23,8 @@
   - title:    New Website
     url:      /blog/new-website
 
-- title:    About
-  url:      /about
+- title:    Bio
+  url:      /bio
 
 - title:    GitHub
   url:      https://github.com/rndsrc
