@@ -1,3 +1,3 @@
-# Chi-kwan "CK" Chan's Personal Website
+![In the Sky](images/2010/Bikexus/DSC_7944.jpg)
 
-Hello world!
+Chi-kwan Chan's Personal Website
