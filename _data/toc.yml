@@ -17,8 +17,16 @@
 
 
 # ===== TOP LEVEL ========================================
-- title: Home
-  url: home
+- title:    Home
+  url:      home
 
-- title: Search
-  search: true
+- title:    About
+  url:      http://fermi.myds.me/about/
+  external: true
+
+- title:    GitHub
+  url:      https://github.com/rndsrc
+  external: true
+
+- title:    Search
+  search:   true
