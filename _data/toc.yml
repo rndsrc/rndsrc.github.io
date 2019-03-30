@@ -17,8 +17,8 @@
 
 
 # ===== TOP LEVEL ========================================
-- title:    Home
-  url:      /home
+- title:    Blog
+  url:      /blog
   sections:
   - title:    New Website
     url:      /blog/new-website
