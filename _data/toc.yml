@@ -20,6 +20,8 @@
 - title:    Blog
   url:      /blog
   sections:
+  - title:    First Black Hole Images
+    url:      /blog/first-black-hole-images
   - title:    New Website
     url:      /blog/new-website
 
