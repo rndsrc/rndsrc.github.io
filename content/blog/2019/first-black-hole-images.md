@@ -1,6 +1,6 @@
 # The First Images of a Black Hole
 
-![M87*](../images/2019/M87Star.jpg)
+![M87*](../../images/2019/M87Star.jpg)
 
 Today, the
 [Event Horizon Telescope (EHT) Collaboration](https://eventhorizontelescope.org/)
