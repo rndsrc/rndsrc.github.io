@@ -28,6 +28,9 @@
 - title:    Bio
   url:      /bio
 
+- title:    News
+  url:      /news
+
 - title:    GitHub
   url:      https://github.com/rndsrc
   external: true
