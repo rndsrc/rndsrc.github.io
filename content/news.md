@@ -13,3 +13,6 @@ center of the M87 Galaxy.
 - [Inverse.com](https://www.inverse.com/):
   2019/04/[11](https://www.inverse.com/article/54781-what-does-m87-change-what-we-know-about-black-holes-not-much-and-thats-awesome),
   [13](https://www.inverse.com/article/54833-m87-black-hole-photo-data-storage-feat)
+
+- [UA News](https://uanews.arizona.edu/):
+  [2019/04/10](https://uanews.arizona.edu/story/chasing-einsteins-shadow)
