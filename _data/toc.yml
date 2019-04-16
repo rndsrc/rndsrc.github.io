@@ -17,23 +17,23 @@
 
 
 # ===== TOP LEVEL ========================================
-- title:    Blog
-  url:      /blog
+- title: Blog
+  url:  /blog
   sections:
-  - title:    First Black Hole Images
-    url:      /blog/2019/first-black-hole-images
-  - title:    New Website
-    url:      /blog/2019/new-website
+  - title: First Black Hole Images
+    url:  /blog/2019/first-black-hole-images
+  - title: New Website
+    url:  /blog/2019/new-website
 
-- title:    Bio
-  url:      /bio
+- title: Bio
+  url:  /bio
 
-- title:    News
-  url:      /news
+- title: News
+  url:  /news
 
 - title:    GitHub
   url:      https://github.com/rndsrc
   external: true
 
-- title:    Search
-  search:   true
+- title:  Search
+  search: true
