@@ -29,9 +29,7 @@ url    : "https://rndsrc.dev"  # the base hostname & protocol for your site, e.g
 # Jupyter Book settings
 
 # Notebook content settings
-hide_cell_text      : "# HIDDEN"   # When building the textbook, any cells with this text inside will be hidden in the output markdown
-hide_code_text      : "# NO CODE"  # When building the textbook, any cells with this text inside will have *only* their output shown (no code)
-use_hide_code_button: true         # If True, a small button appears to the right of each cell that lets you hide its contents.
+use_hide_code_button: true  # If True, a small button appears to the right of each cell that lets you hide its contents.
 
 # Sidebar settings
 show_sidebar              : true                       # Show the sidebar. Only set to false if your only wish to host a single page.
@@ -67,6 +65,14 @@ binderhub_interact_text: "Interact"              # The text that interact button
 # Thebelab settings
 use_thebelab_button : true        # If 'true', display a button to allow in-page running code cells with Thebelab
 thebelab_button_text: "Thebelab"  # The text to display inside the Thebelab initialization button
+codemirror_theme    : abcdef      # Theme for codemirror cells, for options see https://codemirror.net/doc/manual.html#config
+
+# nbinteract settings
+use_show_widgets_button: true  # If 'true', display a button to allow in-page running code cells with nbinteract
+
+# Download settings
+use_download_button : true      # If 'true', display a button to download a zip file for the notebook
+download_button_text: Download  # The text that download buttons will contain
 
 #######################################################################################
 # Jupyter book extensions and additional features
@@ -74,6 +80,13 @@ thebelab_button_text: "Thebelab"  # The text to display inside the Thebelab init
 # Bibliography and citation settings. See https://github.com/inukshuk/jekyll-scholar#configuration for options
 scholar:
   style: apa
+
+#######################################################################################
+# Option to add a Goggle analytics tracking code
+
+# Navigate to https://analytics.google.com, add a new property for your jupyter book and copy the tracking id here.
+google_analytics:
+  mytrackingcode:
 
 #######################################################################################
 # Jupyter book settings you probably don't need to change
@@ -117,7 +130,6 @@ collections:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - content/
   - scripts/
   - Gemfile
   - Gemfile.lock
@@ -132,4 +144,4 @@ plugins:
   - jekyll-scholar
 
 # Jupyter Book version - DO NOT CHANGE THIS. It is generated when a new book is created
-jupyter_book_version: 0.4.1
+jupyter_book_version: 0.5.0
