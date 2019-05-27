@@ -30,15 +30,19 @@
 
 # ===== RESEARCH =========================================
 - title: Astronomy
+  url:  /astro
   sections:
   - title: First Black Hole Images
     url:  /blog/2019/first-black-hole-images
 
 - title: Physics
+  url:  /phys
 
 - title: Computation
+  url:  /comp
 
 - title: Data Science
+  url:  /data
   sections:
   - title: New Website
     url:  /blog/2019/new-website
