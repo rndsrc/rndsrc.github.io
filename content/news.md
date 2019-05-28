@@ -1,28 +1,39 @@
-# On the News
+# On the News and Public Media
 
 ## First Black Hole Images
 
-- 「科研人物: 港產天文學家有份影黑洞」 2019/05/11
+- 「科研人物：港產天文學家有份影黑洞」 2019/05/11
   [蘋果日報](https://hk.lifestyle.appledaily.com/lifestyle/realtime/article/20190510/59579000),
   [果籽](https://hk.lifestyle.appledaily.com/lifestyle/tech/daily/article/20190511/20675578)
 - "Supercomputers at UT Austin Make Black Hole Journey Possible" 2019/04/23
   [Campus Technology](https://campustechnology.com/articles/2019/04/23/supercomputers-at-ut-austin-make-black-hole-journey-possible.aspx)
-- 「参与黑洞拍摄计划的华人科学家陈志均」 2019/04/22
-  [廣州日報](http://news.dayoo.com/society/201904/22/140000_52545856.htm)
+- 「一年前就有了黑洞*真容*」 2019/04/22
+  [廣州日報](http://news.dayoo.com/society/201904/22/140000_52545856.htm),
+  [凤凰网](https://tech.ifeng.com/c/7m43mstxvGk),
+  [新浪科技](https://tech.sina.com.cn/d/s/2019-04-22/doc-ihvhiqax4297007.shtml),
+  [每日頭條](https://kknews.cc/science/a34nj3x.html)
 - 「人類首張黑洞照片 港人天文學家助講解」 2019/04/21
   [東方日報](https://orientaldaily.on.cc/cnt/news/20190421/00176_056.html)
+- 「黑洞之謎」 2019/04/19
+  [香港天文台 HKO](https://www.facebook.com/watch/?v=2262573617195585)
 - "University of Arizona researchers revel as first photo of black hole unveiled" 2019/04/17
+  [Arizona PBS](https://cronkitenews.azpbs.org/2019/04/10/university-of-arizona-researchers-revel-as-photo-of-black-hole-unveiled/),
+  [Arizona Daily Independent](https://arizonadailyindependent.com/2019/04/10/university-of-arizona-researchers-revel-as-photo-of-black-hole-unveiled/),
   [Tucson Sentinel](http://www.tucsonsentinel.com/local/report/041719_black_hole_ua/university-arizona-researchers-revel-as-first-photo-black-hole-unveiled/)
 - "University of Arizona helps capture first image of a black hole" 2019/04/17
   [Tucson Local Media](https://www.tucsonlocalmedia.com/news/article_9aa26a62-5bb4-11e9-b8f7-1748e0f95ab8.html)
+- 「天文史上黑洞首照片 印證相對論」 1029/04/16
+  [都市日報](https://www.metrodaily.hk/metro_news/天文史上黑洞首照片-印證相對論/)
 - 「港人參與攝黑洞 由石圍角圖書館 走向5500萬光年」2019/04/14
-  [明報 a](https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20190414/s00002/1555179555836/%E6%B8%AF%E4%BA%BA%E5%8F%83%E8%88%87%E6%94%9D%E9%BB%91%E6%B4%9E-%E7%94%B1%E7%9F%B3%E5%9C%8D%E8%A7%92%E5%9C%96%E6%9B%B8%E9%A4%A8-%E8%B5%B0%E5%90%915500%E8%90%AC%E5%85%89%E5%B9%B4),
-  [b](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20190414/s00002/1555179558098/%e8%8b%b1%e6%96%87%e5%b7%ae%e7%a4%99%e5%8d%87%e5%ad%b8-%e3%80%8c%e8%80%83%e7%84%a1%e6%95%b8%e6%ac%a1toefl%e3%80%8d),
-  [c](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20190414/s00002/1555179558223/%e7%85%a7%e7%89%87%e8%a2%ab%e5%bd%88%e6%a8%a1%e7%b3%8a-%e3%80%8c%e5%b7%b2%e6%98%af%e4%ba%ba%e9%a1%9e%e7%9b%ae%e5%89%8d%e6%9c%80%e5%a5%bd%e3%80%8d)
+  [明報 a](https://news.mingpao.com/pns/港聞/article/20190414/s00002/1555179555836/港人參與攝黑洞-由石圍角圖書館-走向5500萬光年)
+  [b](https://news.mingpao.com/pns/港聞/article/20190414/s00002/1555179558098/英文差礙升學-「考無數次toefl」)
+  [c](https://news.mingpao.com/pns/港聞/article/20190414/s00002/1555179558223/照片被彈模糊-「已是人類目前最好」)
 - 「由公屋小子到黑洞照片功臣」2019/04/13
   [Business Digest 人物專訪](https://www.facebook.com/406692330142425/posts/427902514688073/)
 - "The Internet Couldn't Handle All the Data From the First Black Hole Photo" 2019/04/13
   [Inverse.com](https://www.inverse.com/article/54833-m87-black-hole-photo-data-storage-feat)
+- 「寫程式過濾雜訊 女科學家助還原黑洞照」 2019/04/12
+  [明報](https://news.mingpao.com/pns/國際/article/20190412/s00014/1555008453729/寫程式過濾雜訊-女科學家助還原黑洞照)
 - "Peeling back the darkness of M87"
   [2019/04/12 TACC](https://www.tacc.utexas.edu/-/peeling-back-the-darkness-of-m87),
   [2019/04/15 Eurek Alert](https://www.eurekalert.org/pub_releases/2019-04/uota-pbt041519.php)
@@ -30,9 +41,14 @@
   [Primeur Magazine](http://primeurmagazine.com/weekly/AE-PR-05-19-64.html)
 - 「黑洞照片背后的浙江乡情」
   [2019/04/11 诸暨日报](https://zj.zjol.com.cn/news/1176521.html),
-  [2019/04/12 浙江新闻](https://zjnews.zjol.com.cn/zjnews/zjxw/201904/t20190412_9883450.shtml)
-- 「华人天文学家陈志均参与黑洞照科研展述更多拍摄背后工作」 2019/04/11
-  [僑報網](http://www.uschinapress.com/2019/0411/1160965.shtml)
+  [2019/04/12 绍兴日报](http://www.shaoxing.com.cn/news/content/2019-04/12/content_2699057.htm),
+  [2019/04/12 浙江新闻 a](https://zjnews.zjol.com.cn/zjnews/zjxw/201904/t20190412_9883450.shtml),
+  [b](https://zj.zjol.com.cn/news/1177046.html)
+- 「华人天文学家陈志均参与黑洞照科研展述更多拍摄背后工作」
+  [2019/04/11 僑報網](http://www.uschinapress.com/2019/0411/1160965.shtml),
+  [2019/04/12 中国新闻网](https://www.chinanews.com/hr/2019/04-12/8807277.shtml),
+  [新浪科技](https://tech.sina.com.cn/i/2019-04-12/doc-ihvhiqax2119667.shtml),
+  [2019/04/13 每日頭條](https://kknews.cc/science/8p6kavq.html)
 - "Astronomers Reveal 3 Things the Historic Black Hole Photo Confirms About Space" 2019/04/11
   [Inverse.com](https://www.inverse.com/article/54781-what-does-m87-change-what-we-know-about-black-holes-not-much-and-thats-awesome)
 - "UA well represented on global team that released first photos of a black hole" 2019/04/11
@@ -41,13 +57,25 @@
   [Patch.com](https://patch.com/arizona/phoenix/university-arizona-researchers-revel-black-hole-photo-shown)
 - "21 UA Students Contributed to Global Effort Resulting in First Black Hole Image" 2019/04/11
   [UA Science](https://uascience.org/2019/04/11/21-ua-students-contributed-to-global-effort-resulting-in-first-black-hole-image/)
+- 「黑洞首張照片：港人天文學家參與　綜合數據成圖像助解星系演化」 2019/04/10
+  [香港 01](https://www.hk01.com/社會新聞/316673/黑洞首張照片-港人天文學家參與-綜合數據成圖像助解星系演化)
 - "CyVerse Community Member and Astrophysicist Helps Lead Event Horizon Telescope Data Processing" 2019/04/10
   [CyVerse](https://www.cyverse.org/single-post/2019/04/10/CyVerse-Community-Member-and-Astrophysicist-Helps-Lead-Event-Horizon-Telescope-Data-Processing)
 - "Chasing Einstein's Shadow: UA Helps Capture First Image of a Black Hole"
   [2019/04/10 UA News](https://uanews.arizona.edu/story/chasing-einsteins-shadow),
   [2019/04/11 Association of American Universities](https://www.aau.edu/research-scholarship/featured-research-topics/chasing-einsteins-shadow-ua-helps-capture-first-image)
-- 「黑洞首張照片：港人天文學家參與　綜合數據成圖像助解星系演化」 2019/04/10
-  [香港 01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/316673/%E9%BB%91%E6%B4%9E%E9%A6%96%E5%BC%B5%E7%85%A7%E7%89%87-%E6%B8%AF%E4%BA%BA%E5%A4%A9%E6%96%87%E5%AD%B8%E5%AE%B6%E5%8F%83%E8%88%87-%E7%B6%9C%E5%90%88%E6%95%B8%E6%93%9A%E6%88%90%E5%9C%96%E5%83%8F%E5%8A%A9%E8%A7%A3%E6%98%9F%E7%B3%BB%E6%BC%94%E5%8C%96)
+- "A Whirlpool of Space and Time: Black Holes and Tomorrow's Big Data" 2019/04/10
+  [UA News](https://experts.arizona.edu/blackhole)
+- "The Very First Image Of A Black Hole" 2019/04/10
+  [Science Friday](https://www.sciencefriday.com/articles/breaking-first-image-black-hole/)
+- "The First-Ever Picture of a Black Hole is Fuzzy. These Incredible Illustrations Help Explain What It Shows" 2019/04/10
+  [Business Insider](https://www.businessinsider.com/black-hole-first-photo-event-horizon-telescope-picture-explained-2019-4)
+- "Scientists Reveal the First Picture of a Black Hole" 2019/04/10
+  [WIRED](https://www.wired.com/story/scientists-reveal-the-first-picture-of-a-black-hole/)
+- "Will the EHT's First Black Hole Image Look Like Interstellar's *Gargantua*?" 2019/04/09
+  [AstroEngine](https://astroengine.com/2019/04/09/will-the-ehts-first-black-hole-image-look-like-interstellars-gargantua/)
+- "Event Horizon Telescope Image: An Interesting Nothingness?" 2019/04/06
+  [Science 2.0](https://www.science20.com/hontas_farmer/event_horizon_telescope_image_an_interesting_nothingness-237451)
 
 ## Black Hole PIRE Launch Event
 
@@ -57,7 +85,21 @@
 - "UA Focused on Project to Get First Images of Black Holes" 2018/02/15
   [Arizona Public Media](https://news.azpm.org/p/news-articles/2018/2/15/124205-ua-gets-grant-to-support-black-hole-research/)
 
+## The Black Hole Test
+
+- "Does Einstein's Theory of Gravity Hold Near Black Holes?" 2015/09/01
+  [Scientific American](https://www.scientificamerican.com/article/does-einstein-s-theory-of-gravity-hold-near-black-holes/)
+  [科學人雜誌](http://sa.ylib.com/MagArticle.aspx?Unit=featurearticles&id=4307)
+
 ## GPU-Accelerated General Relativistic Ray Tracing
 
 - "Black holes come to the big screen" 2014/11/06
+  [UA News](https://uanews.arizona.edu/story/black-holes-come-big-screen)
+  [Steward](https://www.as.arizona.edu/featured-articles/ua-astrophysicists-use-computer-gaming-hardware-steroids-simulate-black-hole)
   [phys.org](https://phys.org/news/2014-11-black-holes-big-screen.html)
+
+## Condensation in Two-Dimensional Turbulence
+
+- "Dynamics of saturated energy condensation in two-dimensional turbulence" 2012/03/28
+  [Physics Review E Kaleidoscope](https://journals.aps.org/pre/kaleidoscope/pre/85/3/036315)
+  [Backreaction](http://backreaction.blogspot.com/2012/10/turbulence-in-2-dimensional-box-pretty.html)
