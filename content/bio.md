@@ -31,12 +31,14 @@
 </td>
 </tr></table>
 
-I am an Assistant Astronomer at the [Steward
-Observatory](https://www.as.arizona.edu/) and a Data Science Fellow at
-the UA [Data Science Institute](https://datascience.arizona.edu/).
+I am an
+[Assistant Astronomer](https://www.as.arizona.edu/people/faculty/chi-kwan-chan)
+at the [Steward Observatory](https://www.as.arizona.edu/) and a
+[Data Science Fellow](https://datascience.arizona.edu/person/chi-kwan-chan)
+at the [UA Data Science Institute](https://datascience.arizona.edu/).
 I focus on computational astrophysics and work with cutting edge
 technologies to advance both theoretical and observational research.
-I have developed new algorithms to study magnetohydrodynamic
+I have developed new algorithms to study magnetohydrodynamic (MHD)
 turbulence, used graphics processing units (GPUs) to accelerate
 general relativistic ray tracing, designed cloud computing
 infrastructures to handle big observational data, and applied machine
