@@ -41,11 +41,17 @@
 - title: Computation
   url:  /comp
 
+- title: Mathematics
+  url:  /math
+
 - title: Data Science
   url:  /data
   sections:
   - title: New Website
     url:  /blog/2019/new-website
+
+- title: Artworks
+  url:  /arts
 
 # ===== OTHERS ===========================================
 - title:  Search
