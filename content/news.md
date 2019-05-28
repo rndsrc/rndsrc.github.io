@@ -1,5 +1,9 @@
 # On the News and Public Media
 
+Some of these are my interviews or quote me, some of these are reports
+about my (and my collaborators') research, some of these simply use my
+works.
+
 ## First Black Hole Images
 
 - 『科研人物：港產天文學家有份影黑洞』 2019/05/11
