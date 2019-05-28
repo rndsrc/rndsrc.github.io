@@ -47,8 +47,8 @@
 - title: Data Science
   url:  /data
   sections:
-  - title: New Website
-    url:  /blog/2019/new-website
+  - title: New Jupyter-Book Website
+    url:  /blog/2019/new-jupyter-book-website
 
 - title: Artworks
   url:  /arts
