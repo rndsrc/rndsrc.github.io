@@ -30,3 +30,20 @@
 </p>
 </td>
 </tr></table>
+
+I am an Assistant Astronomer at the [Steward
+Observatory](https://www.as.arizona.edu/) and a Data Science Fellow at
+the UA [Data Science Institute](https://datascience.arizona.edu/).
+I focus on computational astrophysics and work with cutting edge
+technologies to advance both theoretical and observational research.
+I have developed new algorithms to study magnetohydrodynamic
+turbulence, used graphics processing units (GPUs) to accelerate
+general relativistic ray tracing, designed cloud computing
+infrastructures to handle big observational data, and applied machine
+learning algorithms to speed up and automate data processing.
+Some of my active projects include simulating and understanding
+accretion disks, [capturing images of black
+holes](https://eventhorizontelescope.org/), and visualizing
+astrophysical simulations in virtual reality.
+A true wildcat, I received both my bachelors and doctoral degrees from
+the [University of Arizona](https://www.arizona.edu).
