@@ -24,22 +24,24 @@
     url:  /bio
   - title: On the News
     url:  /news
+  - title: Blog by Years
+    url:  /blog
   - title: GitHub
     url:   https://github.com/rndsrc
     external: true
 
 # ===== RESEARCH =========================================
+- title: Mathematics
+  url:  /math
+
+- title: Physics
+  url:  /phys
+
 - title: Astronomy
   url:  /astro
   sections:
   - title: First Black Hole Images
     url:  /blog/2019/first-black-hole-images
-
-- title: Physics
-  url:  /phys
-
-- title: Mathematics
-  url:  /math
 
 - title: Computational Science
   url:  /comp
