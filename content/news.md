@@ -63,6 +63,8 @@ works.
   [UA Science](https://uascience.org/2019/04/11/21-ua-students-contributed-to-global-effort-resulting-in-first-black-hole-image/)
 - 『黑洞首張照片：港人天文學家參與　綜合數據成圖像助解星系演化』 2019/04/10
   [香港 01](https://www.hk01.com/社會新聞/316673/黑洞首張照片-港人天文學家參與-綜合數據成圖像助解星系演化)
+- 『黑洞真實影像首公開』 2019/04/10
+  [有線新聞 i-Cable News](https://www.facebook.com/watch/?v=338918106735282)
 - 'CyVerse Community Member and Astrophysicist Helps Lead Event Horizon Telescope Data Processing' 2019/04/10
   [CyVerse](https://www.cyverse.org/single-post/2019/04/10/CyVerse-Community-Member-and-Astrophysicist-Helps-Lead-Event-Horizon-Telescope-Data-Processing)
 - 'Chasing Einstein's Shadow: UA Helps Capture First Image of a Black Hole'
