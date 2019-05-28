@@ -38,11 +38,11 @@
 - title: Physics
   url:  /phys
 
-- title: Computation
-  url:  /comp
-
 - title: Mathematics
   url:  /math
+
+- title: Computational Science
+  url:  /comp
 
 - title: Data Science
   url:  /data
