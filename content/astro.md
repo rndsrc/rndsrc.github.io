@@ -1,4 +1,4 @@
-# Astronomy and Astrophysics
+# Astronomy & Astrophysics
 
 Under construction.
 

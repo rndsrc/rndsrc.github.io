@@ -22,7 +22,7 @@
   sections:
   - title: Bio
     url:  /bio
-  - title: On the News and Public Media
+  - title: On the News
     url:  /news
   - title: Blog by Years
     url:  /blog
@@ -37,24 +37,23 @@
 - title: Physics
   url:  /phys
 
-- title: Astronomy and Astrophysics
+- title: Astronomy & Astrophysics
   url:  /astro
   sections:
   - title: First Black Hole Images
     url:  /blog/2019/first-black-hole-images
 
-- title: Computational Science
+- title: Computation
   url:  /comp
 
 - title: Data Science
   url:  /data
+
+- title: Random Works
+  url:  /rnd
   sections:
   - title: New Jupyter-Book Website
     url:  /blog/2019/new-jupyter-book-website
-
-- title: Artworks
-  url:  /arts
-  sections:
   - title: "Bikexus: a Journey of a Lifetime"
     url:  /blog/2010/bikexus
 
