@@ -45,6 +45,9 @@
 
 - title: Computation
   url:  /comp
+  sections:
+  - title: GitHub Satellite---In the Shadow of the Black Hole
+    url:  /blog/2019/github-satellite
 
 - title: Data Science
   url:  /data
