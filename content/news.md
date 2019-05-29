@@ -1,10 +1,6 @@
 # On the News and Public Media
 
-Some of these are my interviews or quote me, some of these are reports
-about my (and my collaborators') research, some of these simply use my
-works.
-
-## First Black Hole Images
+## First Black Hole Images (EHT's First Result on M87\*)
 
 - 『科研人物：港產天文學家有份影黑洞』
   2019/05/11
@@ -15,7 +11,7 @@ works.
   [Campus Technology](https://campustechnology.com/articles/2019/04/23/supercomputers-at-ut-austin-make-black-hole-journey-possible.aspx)
 - 『一年前就有了黑洞「真容」』
   2019/04/22
-  [廣州日報](http://news.dayoo.com/society/201904/22/140000_52545856.htm),
+  [广州日报](http://news.dayoo.com/society/201904/22/140000_52545856.htm),
   [凤凰网](https://tech.ifeng.com/c/7m43mstxvGk),
   [新浪科技](https://tech.sina.com.cn/d/s/2019-04-22/doc-ihvhiqax4297007.shtml),
   [每日頭條](https://kknews.cc/science/a34nj3x.html)
@@ -50,6 +46,9 @@ works.
 - 『寫程式過濾雜訊 女科學家助還原黑洞照』
   2019/04/12
   [明報](https://news.mingpao.com/pns/國際/article/20190412/s00014/1555008453729/寫程式過濾雜訊-女科學家助還原黑洞照)
+- 'Data Science Fellow has a Hand in the First Image of a Black Hole'
+  2019/04/12
+  [Data Science Institute](https://datascience.arizona.edu/news)
 - 'Peeling back the darkness of M87'
   2019/04/12
   [TACC](https://www.tacc.utexas.edu/-/peeling-back-the-darkness-of-m87);
