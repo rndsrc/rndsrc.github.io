@@ -54,6 +54,9 @@
 
 - title: Artworks
   url:  /arts
+  sections:
+  - title: "Bikexus: a Journey of a Lifetime"
+    url:  /blog/2010/bikexus
 
 # ===== OTHERS ===========================================
 - title:  Search

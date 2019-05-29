@@ -4,4 +4,4 @@ Under construction.
 
 # Blog
 
-Under construction.
+- [Bikexus: a Journey of a Lifetime](blog/2010/bikexus)
