@@ -2,6 +2,9 @@
 
 ## First Black Hole Images (EHT's First Result on M87\*)
 
+- 'Google Cloud Platform supports international effort to produce first-ever image of a black hole'
+  2019/07/16
+  [Google](https://edu.google.com/why-google/case-studies/eht-gcp)
 - 『科研人物：港產天文學家有份影黑洞』
   2019/05/11
   [蘋果日報](https://hk.lifestyle.appledaily.com/lifestyle/realtime/article/20190510/59579000),
