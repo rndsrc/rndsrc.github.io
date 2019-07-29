@@ -1,5 +1,7 @@
 # On the News and Public Media
 
+![Research Group](../../images/2019/group.jpg)
+
 ## First Black Hole Images (EHT's First Result on M87\*)
 
 - 'Google Cloud Platform supports international effort to produce first-ever image of a black hole'
