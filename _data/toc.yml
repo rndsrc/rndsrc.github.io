@@ -1,3 +1,5 @@
+# This file contains the order and numbering for all sections in the book.
+#
 # Each entry has the following schema:
 #
 # - title: mytitle   # Title of chapter or section
@@ -10,6 +12,7 @@
 #   external: true  # Whether the URL is an external link or points to content in the book
 #
 # Below are some special values that trigger specific behavior:
+#
 # - search: true  # Will provide a link to a search page
 # - divider: true  # Will insert a divider in the sidebar
 # - header: My Header  # Will insert a header with no link in the sidebar

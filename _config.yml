@@ -28,9 +28,6 @@ url    : "https://rndsrc.dev"  # the base hostname & protocol for your site, e.g
 #######################################################################################
 # Jupyter Book settings
 
-# Notebook content settings
-use_hide_code_button: true  # If True, a small button appears to the right of each cell that lets you hide its contents.
-
 # Sidebar settings
 show_sidebar              : true                       # Show the sidebar. Only set to false if your only wish to host a single page.
 collapse_inactive_chapters: true                       # Whether to collapse the inactive chapters in the sidebar
@@ -144,4 +141,4 @@ plugins:
   - jekyll-scholar
 
 # Jupyter Book version - DO NOT CHANGE THIS. It is generated when a new book is created
-jupyter_book_version: 0.5.0
+jupyter_book_version: 0.5.2
