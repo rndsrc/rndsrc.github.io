@@ -2,6 +2,25 @@
 
 ![Research Group](../../images/2019/group.jpg)
 
+## Breakthrough Prize in Fundamental Physics
+
+- 'UA researchers among 347 winners of $3 million prize'
+  2019/09/10
+  [Tucson Weekly](https://www.tucsonweekly.com/TheRange/archives/2019/09/10/ua-researchers-among-347-winners-of-3-million-prize),
+  [Inside Tucson Business](https://www.insidetucsonbusiness.com/news/ua-researchers-among-winners-of-million-prize/article_130224c6-d3ff-11e9-98a9-d3761fbd5736.html)
+- 'UA researchers receive "Oscar of Science" award for the first image of a black hole'
+  2019/09/09
+  [Tucson.com](https://tucson.com/news/local/ua-researchers-receive-oscar-of-science-award-for-the-first/article_fd1bcca8-64f3-51ad-b4c7-137f849e876c.html)
+- '$3M Breakthrough Prize Goes to Black Hole Hunters Including UA Astrophysicists'
+  2019/09/05
+  [UA News](https://uanews.arizona.edu/story/3m-breakthrough-prize-goes-black-hole-hunters-including-ua-astrophysicists)
+- 'UA researchers earn Oscar of Science for first-ever black hole'
+  2019/09/05
+  [KOLD News 13](https://www.kold.com/2019/09/05/ua-researchers-earn-oscar-science-first-ever-black-hole/)
+- 'Winners of the 2020 Breakthrough Prize in Life Sciences, Fundamental Physics and Mathematics Announced'
+  2019/09/05
+  [Breakthrough Prize](https://breakthroughprize.org/News/54)
+
 ## First Black Hole Images (EHT's First Result on M87\*)
 
 - 'Google Cloud Platform supports international effort to produce first-ever image of a black hole'
