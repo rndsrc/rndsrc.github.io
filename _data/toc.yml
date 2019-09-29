@@ -13,7 +13,6 @@
 #
 # Below are some special values that trigger specific behavior:
 #
-# - search: true  # Will provide a link to a search page
 # - divider: true  # Will insert a divider in the sidebar
 # - header: My Header  # Will insert a header with no link in the sidebar
 
@@ -62,7 +61,3 @@
     url:  /blog/2019/new-jupyter-book-website
   - title: "Bikexus: a Journey of a Lifetime"
     url:  /blog/2010/bikexus
-
-# ===== OTHERS ===========================================
-- title:  Search
-  search: true
