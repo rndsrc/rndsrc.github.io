@@ -11,7 +11,10 @@ help:
 	@echo "  publish     to build, commit to master, and push to GitHub"
 
 install:
-	gem install bundler
+	# Check to see whether bundler is already installed. If not, install it.
+	if [ hash bundler 2>/dev/null ]; then \
+		gem install bundler; \
+	fi
 	bundle install
 
 book:
