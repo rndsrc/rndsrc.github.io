@@ -23,6 +23,9 @@
 
 ## First Black Hole Images (EHT's First Result on M87\*)
 
+- 'NumFOCUS tools help create the first ever image of a black hole'
+  2019/10/04
+  [NumFOCUS](https://numfocus.org/case-studies/first-photograph-black-hole)
 - 'Google Cloud Platform supports international effort to produce first-ever image of a black hole'
   2019/07/16
   [Google](https://edu.google.com/why-google/case-studies/eht-gcp)
