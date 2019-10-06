@@ -21,6 +21,12 @@
   2019/09/05
   [Breakthrough Prize](https://breakthroughprize.org/News/54)
 
+## Lemon Labs
+
+- 'Lemons to Lemonade: At UA-TRIPODS+X Workshop Researchers Share Valuable Lessons from Failures'
+  2019/05/29
+  [UA-TRIPODS](https://tripods.math.arizona.edu/news)
+
 ## First Black Hole Images (EHT's First Result on M87\*)
 
 - 'NumFOCUS tools help create the first ever image of a black hole'
