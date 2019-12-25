@@ -1,5 +1,3 @@
-# Mathematics
-
 Under construction.
 
 # Blog

@@ -1,5 +1,3 @@
-# Random Works
-
 Under construction.
 
 # Blog

@@ -1,5 +1,3 @@
-# Computational Science
-
 Under construction.
 
 # Blog

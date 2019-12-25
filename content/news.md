@@ -1,5 +1,3 @@
-# On the News and Public Media
-
 ![Research Group](../../images/2019/group.jpg)
 
 ## Breakthrough Prize in Fundamental Physics

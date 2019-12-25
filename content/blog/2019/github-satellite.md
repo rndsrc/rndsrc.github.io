@@ -1,7 +1,5 @@
 ###### 2019/05/23
 
-# GitHub Satellite---In the Shadow of the Black Hole
-
 ![GitHub](../../images/2019/GitHub_Satellite.png)
 
 Andrew, Kazu, Sara, Lindy, Roman, and I were invited to the

@@ -1,5 +1,3 @@
-# Bikexus: a Journey of a Lifetime
-
 ![](../../images/2010/Bikexus/DSC_4681.jpg)
 ![](../../images/2010/Bikexus/DSC_5016.jpg)
 ![](../../images/2010/Bikexus/DSC_5195.jpg)

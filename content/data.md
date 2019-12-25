@@ -1,5 +1,3 @@
-# Data Science
-
 Under construction.
 
 # Blog

@@ -1,7 +1,5 @@
 ###### 2019/03/29
 
-# A New Jupyter-Book Based Website
-
 After using Wordpress and an NAS to host my personal website for 5
 years, I finally decided to switch.
 The main reason is that I evolved into a total git-geek---I want to

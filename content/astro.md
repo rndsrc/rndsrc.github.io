@@ -1,5 +1,3 @@
-# Astronomy & Astrophysics
-
 Under construction.
 
 # Blog

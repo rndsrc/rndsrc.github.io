@@ -1,5 +1,3 @@
-# Physics
-
 Under construction.
 
 # Blog

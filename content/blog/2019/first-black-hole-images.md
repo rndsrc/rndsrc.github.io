@@ -1,7 +1,5 @@
 ###### 2019/04/10
 
-# The First Images of a Black Hole
-
 ![M87*](../../images/2019/M87Star.jpg)
 
 Today, the

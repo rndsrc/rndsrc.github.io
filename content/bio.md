@@ -1,5 +1,3 @@
-# Bio
-
 <table style="width:640px"><tr>
 <td style="width:36%;border:0;padding:0"><img src="images/2010/Bikexus/DSC_7876.jpg" alt="CK Chan" /></td>
 <td style="width:64%;border:0;padding:18px 0 0 12px;vertical-align:middle;text-align:left">
