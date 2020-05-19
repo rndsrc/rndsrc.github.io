@@ -21,7 +21,7 @@
   E-mail: <a href="mailto:chanc@email.arizona.edu">chanc/at/email/dot/arizona/dot/edu</a><br/>
 </p>
 <p>
-  CV: <a href="http://fermi.myds.me/chan-cv.pdf">pdf</a><br/>
+  CV: <a href="https://github.com/rndsrc/rndsrc.github.io/raw/book/content/chan-cv.pdf">pdf</a><br/>
   Publications:
     <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?aut_xct=YES&amp;author=Chan%2C+Chi-kwan&amp;article_sel=YES">ADS</a>,
     <a href="http://scholar.google.com/citations?user=27yWbOYAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a>
