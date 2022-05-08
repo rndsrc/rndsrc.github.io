@@ -1,0 +1,19 @@
+# Global
+*
+!*/
+
+# Settings
+!*file
+!*.y*ml
+!requirements.txt
+
+# Documentations
+!*.md
+!*.ipynb
+!*.bib
+
+# Build directory
+_build/
+
+# Cache directories
+.ipynb_checkpoints/
