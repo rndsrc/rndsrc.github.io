@@ -12,6 +12,9 @@
 !*.ipynb
 !*.bib
 
+# Pictures
+!*.jpg
+
 # Build directory
 _build/
 
