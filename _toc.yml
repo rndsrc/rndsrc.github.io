@@ -9,3 +9,4 @@ parts:
 - caption: Blogs
   chapters:
   - file: blogs/2010/bikexus
+  - file: blogs/2019/eht_M87Star
