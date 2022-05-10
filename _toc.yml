@@ -3,5 +3,9 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: biography
+parts:
+- chapters:
+  - file: biography
+- caption: Blogs
+  chapters:
+  - file: blogs/2010/bikexus
