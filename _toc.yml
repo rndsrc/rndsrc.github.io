@@ -6,6 +6,8 @@ root: index
 parts:
 - chapters:
   - file: biography
+- chapters:
+  - file: news
 - caption: Blogs
   chapters:
   - file: blogs/2010/bikexus
