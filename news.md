@@ -93,13 +93,6 @@ Last updated 2019/09/10.
 - 'TACC's supercomputers play role in Event Horizon Telescope's first-ever black hole image'
   2019/04/12
   [Primeur Magazine](http://primeurmagazine.com/weekly/AE-PR-05-19-64.html)
-- 『黑洞照片背后的浙江乡情』
-  2019/04/11
-  [诸暨日报](https://zj.zjol.com.cn/news/1176521.html);
-  2019/04/12
-  [绍兴日报](http://www.shaoxing.com.cn/news/content/2019-04/12/content_2699057.htm),
-  [浙江新闻 a](https://zjnews.zjol.com.cn/zjnews/zjxw/201904/t20190412_9883450.shtml),
-  [b](https://zj.zjol.com.cn/news/1177046.html)
 - 『华人天文学家陈志均参与黑洞照科研展述更多拍摄背后工作』
   2019/04/11
   [僑報網](http://www.uschinapress.com/2019/0411/1160965.shtml);
