@@ -3,7 +3,7 @@
 My research that showed up on the news through out the years.
 Last updated 2019/09/10.
 
-![Research Group](moments/2019/bhpire_group.jpg)
+![Research Group](moments/2022/bhpire_group.jpg)
 
 ## Breakthrough Prize in Fundamental Physics
 
