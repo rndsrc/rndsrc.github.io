@@ -5,6 +5,41 @@ Last updated 2019/09/10.
 
 ![Research Group](moments/2022/bhpire_group.jpg)
 
+## First Images of the Galactic Center Black Hole (EHT’s First Result on Sgr A*)
+
+- 'Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy'
+  [EHT Website](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy)
+  [NSF](https://beta.nsf.gov/news/we-got-it-astronomers-reveal-first-image-black-hole-heart-our-galaxy)
+  [ESO](https://www.eso.org/public/news/eso2208-eht-mw/)
+  [MPIfR](https://www.mpifr-bonn.mpg.de/pressreleases/2022/8)
+  [phys.org](https://phys.org/news/2022-05-astronomers-reveal-image-black-hole.html)
+  [Science Daily](https://www.sciencedaily.com/releases/2022/05/220512094206.htm)
+- 'UArizona astronomers lead efforts that reveal the black hole at the heart of our galaxy'
+  2022/05/12
+  [UA News](https://news.arizona.edu/story/uarizona-astronomers-lead-efforts-reveal-black-hole-heart-our-galaxy)
+- "Black hole scientist: 'Wherever we look, we should see donuts'"
+  2022/05/12
+  [UA News](https://news.arizona.edu/story/black-hole-scientist-wherever-we-look-we-should-see-donuts)
+- 'Making sense of the nonsensical: Black holes and the simulation library'
+  2022/05/12
+  [UA News](https://news.arizona.edu/story/making-sense-nonsensical-black-holes-and-simulation-library)
+  [CyVerse](https://cyverse.org/eht-sagA)
+- 'High-throughput computing as an enabler of black hole science'
+  2022/05/12
+  [OSG](https://opensciencegrid.org/spotlights/EHT.html)
+- 'First image of the beastly black hole at the heart of our galaxy'
+  2022/05/12
+  [TACC](https://www.tacc.utexas.edu/-/first-image-of-the-beastly-black-hole-at-the-heart-of-our-galaxy)
+- 'Astronomers reveal first image of black hole at Milky Way’s centre'
+  2022/05/13
+  [SCMP](https://www.scmp.com/yp/discover/news/article/3177632/astronomers-reveal-first-image-black-hole-milky-ways-centre)
+- '銀河系中心全新視覺 超大質量黑洞照片曝光'
+  2022/05/13
+  [星島日報](https://www.singtao.ca/5768909/2022-05-13/post-%E9%8A%80%E6%B2%B3%E7%B3%BB%E4%B8%AD%E5%BF%83%E5%85%A8%E6%96%B0%E8%A6%96%E8%A6%BA-%E8%B6%85%E5%A4%A7%E8%B3%AA%E9%87%8F%E9%BB%91%E6%B4%9E%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89)
+- '全球首張銀河系中心超級黑洞影像曝光 中大成港唯一參與研究院校'
+  2022/05/26
+  [星島日報](https://www.singtaousa.com/2022-05-26/%e5%85%a8%e7%90%83%e9%a6%96%e5%bc%b5%e9%8a%80%e6%b2%b3%e7%b3%bb%e4%b8%ad%e5%bf%83%e8%b6%85%e7%b4%9a%e9%bb%91%e6%b4%9e%e5%bd%b1%e5%83%8f%e6%9b%9d%e5%85%89-%e4%b8%ad%e5%a4%a7%e6%88%90%e6%b8%af%e5%94%af/4094775)
+
 ## Breakthrough Prize in Fundamental Physics
 
 - 'UA researchers among 347 winners of $3 million prize'
