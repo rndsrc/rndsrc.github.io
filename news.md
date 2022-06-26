@@ -8,18 +8,20 @@ Last updated 2019/09/10.
 ## First Images of the Galactic Center Black Hole (EHT’s First Result on Sgr A*)
 
 - 'Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy'
-  [EHT Website](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy)
-  [NSF](https://beta.nsf.gov/news/we-got-it-astronomers-reveal-first-image-black-hole-heart-our-galaxy)
-  [ESO](https://www.eso.org/public/news/eso2208-eht-mw/)
-  [MPIfR](https://www.mpifr-bonn.mpg.de/pressreleases/2022/8)
-  [phys.org](https://phys.org/news/2022-05-astronomers-reveal-image-black-hole.html)
+  [EHT Website](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy),
+  [NSF](https://beta.nsf.gov/news/we-got-it-astronomers-reveal-first-image-black-hole-heart-our-galaxy),
+  [ESO](https://www.eso.org/public/news/eso2208-eht-mw/),
+  [MPIfR](https://www.mpifr-bonn.mpg.de/pressreleases/2022/8),
+  [phys.org](https://phys.org/news/2022-05-astronomers-reveal-image-black-hole.html),
   [Science Daily](https://www.sciencedaily.com/releases/2022/05/220512094206.htm)
 - 'UArizona astronomers lead efforts that reveal the black hole at the heart of our galaxy'
   2022/05/12
   [UA News](https://news.arizona.edu/story/uarizona-astronomers-lead-efforts-reveal-black-hole-heart-our-galaxy)
 - "Black hole scientist: 'Wherever we look, we should see donuts'"
   2022/05/12
-  [UA News](https://news.arizona.edu/story/black-hole-scientist-wherever-we-look-we-should-see-donuts)
+  [UA News](https://news.arizona.edu/story/black-hole-scientist-wherever-we-look-we-should-see-donuts);
+  2022/05/13
+  [phys.org](https://phys.org/news/2022-05-black-hole-scientist-donuts.html)
 - 'Making sense of the nonsensical: Black holes and the simulation library'
   2022/05/12
   [UA News](https://news.arizona.edu/story/making-sense-nonsensical-black-holes-and-simulation-library)
@@ -30,6 +32,12 @@ Last updated 2019/09/10.
 - 'First image of the beastly black hole at the heart of our galaxy'
   2022/05/12
   [TACC](https://www.tacc.utexas.edu/-/first-image-of-the-beastly-black-hole-at-the-heart-of-our-galaxy)
+- 'University of Arizona researchers were key in creation of Milky Way black hole image. Here's how they did it'
+  2022/05/12
+  [AZCentral](https://www.azcentral.com/story/news/local/arizona-education/2022/05/12/how-university-arizona-helped-create-milky-way-black-hole-image/9747447002/)
+- 'Black hole at center of Milky Way imaged for first time'
+  2022/05/12
+  [Astronomy](https://astronomy.com/news/2022/05/black-hole-at-heart-of-milky-way-imaged-for-first-time)
 - 'Astronomers reveal first image of black hole at Milky Way’s centre'
   2022/05/13
   [SCMP](https://www.scmp.com/yp/discover/news/article/3177632/astronomers-reveal-first-image-black-hole-milky-ways-centre)
