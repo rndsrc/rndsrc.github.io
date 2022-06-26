@@ -37,18 +37,18 @@ Publications:
 </tr>
 </table>
 
-Chi-kwan "CK" Chan is a leader of the theoretical/computational
+Chi-kwan "CK" Chan is a coordinator of EHT's theoretical/computational
 modeling and interpretation of Sagittarius A* and a key developer of
 EHT's computational and data processing infrastructure.
-Dr. Chan has developed multiple new algorithms to study turbulent
-plasma and has pioneered the use of graphics processing units to
-accelerate the modeling of black hole images.
+He has developed multiple new algorithms to study turbulent plasma and
+has pioneered the use of graphics processing units to accelerate the
+modeling of black hole images.
 He has also built cloud computing infrastructures for large
 observational data, applied machine learning algorithms to speed up
 and automate data processing, and performed large scale
 theoretical/computational studies of supermassive black holes.
-Dr. Chan also trains young researchers on machine learning, numerical
+He also trains young researchers on machine learning, numerical
 analysis, cloud computing, and quantum computing.
-Dr. Chi-kwan Chan is the current Secretary of the EHT Science Council,
+Dr. Chan is the current Secretary of the EHT Science Council,
 co-coordinator of the Software and Data Compatibility Working Group,
-and Senior Investigator of the Black Hole PIRE Project.
+and Senior Investigator of the NSF Black Hole PIRE Project.
