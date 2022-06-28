@@ -14,7 +14,7 @@ CHAN, Chi-kwan
 
 [University of Arizona](https://www.arizona.edu)  
 [Steward Observatory](https://www.as.arizona.edu)  
-[Rm 332, 933 North Cherry Ave.](https://www.google.com/maps/place/933+N+Cherry+Ave,+The+University+of+Arizona,+Tucson,+AZ+85719/@32.2331503,-110.9487605,17z/data=!3m1!4b1!4m2!3m1!1s0x86d671a984de2813:0xbb5eb9e644953487)  
+[Rm 332, 933 North Cherry Ave.](https://www.google.com/maps/place/933+N+Cherry+Ave,+The+University+of+Arizona,+Tucson,+AZ+85719/@32.2331503,-110.9487605,17z/data=!3m1!4b1!4m2!3m1!1s0x86d671a984de2813:0xbb5eb9e644953487)
 Tucson, AZ 85721
 
 Websites:
@@ -37,18 +37,29 @@ Publications:
 </tr>
 </table>
 
-Chi-kwan "CK" Chan is a coordinator of EHT's theoretical/computational
-modeling and interpretation of Sagittarius A* and a key developer of
-EHT's computational and data processing infrastructure.
-He has developed multiple new algorithms to study turbulent plasma and
-has pioneered the use of graphics processing units to accelerate the
-modeling of black hole images.
-He has also built cloud computing infrastructures for large
-observational data, applied machine learning algorithms to speed up
-and automate data processing, and performed large scale
-theoretical/computational studies of supermassive black holes.
-He also trains young researchers on machine learning, numerical
-analysis, cloud computing, and quantum computing.
-Dr. Chan is the current Secretary of the EHT Science Council,
-co-coordinator of the Software and Data Compatibility Working Group,
-and Senior Investigator of the NSF Black Hole PIRE Project.
+[Chi-kwan Chan (CK)](https://rndsrc.dev/)
+is an
+[Associate Astronomer/Research Professor](https://www.as.arizona.edu/people/faculty/chi-kwan-chan)
+at Steward Observatory, University of Arizona, and has been serving as the
+[Secretary](https://eventhorizontelescope.org/organization)
+of the Event Horizon Telescope (EHT) Science Council since 2020.
+He recently led the
+[publication](https://ui.adsabs.harvard.edu/abs/2022ApJ...930L..16A/abstract)
+of the computational and theoretical modeling/interpretation of our black hole, Sgr A*.
+Professor Chan created EHT's computational and data processing infrastructure and continues to lead it to this day, along with EHT's Software and Data Compatibility Working Group.
+He is a Senior Investigator of
+[Black Hole PIRE](https://bhpire.arizona.edu/),
+a leader of the Theoretical Astrophysics Program
+[TAP](https://tap.arizona.edu/working-groups/),
+a Data Science Fellow, and a member of the Applied Mathematics Program.
+In addition to pioneering the use of GPU to accelerate the
+[modeling](https://www.youtube.com/watch?v=GSqvoy2I6SE)
+of black holes, Professor Chan also developed many new
+[algorithms](https://github.com/rndsrc)
+to improve and accelerate modern research, built
+[cloud computing infrastructures](https://edu.google.com/why-google/customer-stories/eht-gcp/)
+for large observational data, and applied machine learning algorithms
+to speed up and automate data processing.
+Professor Chan has taught and mentored in subjects of machine
+learning, numerical analysis, cloud computing, and quantum computing,
+and is an avid hiker.
