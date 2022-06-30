@@ -14,7 +14,7 @@ CHAN, Chi-kwan
 
 [University of Arizona](https://www.arizona.edu)  
 [Steward Observatory](https://www.as.arizona.edu)  
-[Rm 332, 933 North Cherry Ave.](https://www.google.com/maps/place/933+N+Cherry+Ave,+The+University+of+Arizona,+Tucson,+AZ+85719/@32.2331503,-110.9487605,17z/data=!3m1!4b1!4m2!3m1!1s0x86d671a984de2813:0xbb5eb9e644953487)
+[Rm 332, 933 North Cherry Ave.](https://www.google.com/maps/place/933+N+Cherry+Ave,+The+University+of+Arizona,+Tucson,+AZ+85719/@32.2331503,-110.9487605,17z/data=!3m1!4b1!4m2!3m1!1s0x86d671a984de2813:0xbb5eb9e644953487)  
 Tucson, AZ 85721
 
 Websites:
