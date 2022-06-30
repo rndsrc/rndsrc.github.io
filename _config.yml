@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: rndsrc.dev
-logo: ""
+title: ""
+logo: ckc.png
 author: Chi-kwan Chan
 email: chanc@arizona.edu
 description: >- # this means to ignore newlines
