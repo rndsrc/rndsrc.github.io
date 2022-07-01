@@ -40,18 +40,23 @@ Publications:
 [Chi-kwan Chan (CK)](https://rndsrc.dev/)
 is an
 [Associate Astronomer/Research Professor](https://www.as.arizona.edu/people/faculty/chi-kwan-chan)
-at Steward Observatory, University of Arizona, and has been serving as the
+at Steward Observatory and the Department of Astronomy, University of
+Arizona, and has been serving as the
 [Secretary](https://eventhorizontelescope.org/organization)
 of the Event Horizon Telescope (EHT) Science Council since 2020.
 He recently led the
 [publication](https://ui.adsabs.harvard.edu/abs/2022ApJ...930L..16A/abstract)
-of the computational and theoretical modeling/interpretation of our black hole, Sgr A*.
-Professor Chan created EHT's computational and data processing infrastructure and continues to lead it to this day, along with EHT's Software and Data Compatibility Working Group.
+of the computational and theoretical modeling/interpretation of our
+black hole, Sgr A*.
+Professor Chan created EHT's computational and data processing
+infrastructure and continues to lead it to this day, along with EHT's
+Software and Data Compatibility Working Group.
 He is a Senior Investigator of
 [Black Hole PIRE](https://bhpire.arizona.edu/),
 a leader of the Theoretical Astrophysics Program
 [TAP](https://tap.arizona.edu/working-groups/),
-a Data Science Fellow, and a member of the Applied Mathematics Program.
+a Data Science Fellow, and a member of the Applied Mathematics
+Program.
 In addition to pioneering the use of GPU to accelerate the
 [modeling](https://www.youtube.com/watch?v=GSqvoy2I6SE)
 of black holes, Professor Chan also developed many new
