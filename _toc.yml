@@ -7,15 +7,19 @@ parts:
 - chapters:
   - file: biography
 - chapters:
-  - file: news
+  - file: research
 - chapters:
   - url: http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?aut_xct=YES&author=Chan%2C+Chi-kwan&article_sel=YES
     title: Publications (ADS)
 - chapters:
   - url: https://github.com/rndsrc
     title: Development (GitHub)
+- chapters:
+  - file: teach
+- chapters:
+  - file: news
 - caption: Blogs
   chapters:
-  - file: blogs/2010/bikexus
-  - file: blogs/2019/eht_M87Star
   - file: blogs/2019/github_satellite
+  - file: blogs/2019/eht_M87Star
+  - file: blogs/2010/bikexus
