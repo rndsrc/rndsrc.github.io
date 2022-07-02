@@ -5,7 +5,7 @@ Last updated 2019/09/10.
 
 ![Research Group](moments/2022/bhpire_group.jpg)
 
-## First Images of the Galactic Center Black Hole (EHT’s First Result on Sgr A*)
+## First Images of the Galactic Center Black Hole (EHT's First Result on Sgr A*)
 
 - 'Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy'
   [EHT Website](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy),
@@ -38,7 +38,7 @@ Last updated 2019/09/10.
 - 'Black hole at center of Milky Way imaged for first time'
   2022/05/12
   [Astronomy](https://astronomy.com/news/2022/05/black-hole-at-heart-of-milky-way-imaged-for-first-time)
-- 'Astronomers reveal first image of black hole at Milky Way’s centre'
+- 'Astronomers reveal first image of black hole at Milky Way's centre'
   2022/05/13
   [SCMP](https://www.scmp.com/yp/discover/news/article/3177632/astronomers-reveal-first-image-black-hole-milky-ways-centre)
 - '銀河系中心全新視覺 超大質量黑洞照片曝光'
