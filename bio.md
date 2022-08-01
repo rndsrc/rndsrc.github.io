@@ -48,7 +48,7 @@ He recently led the
 [publication](https://ui.adsabs.harvard.edu/abs/2022ApJ...930L..16A/abstract)
 of the computational and theoretical modeling/interpretation of our
 black hole, Sgr A*.
-Professor Chan created EHT's computational and data processing
+Dr. Chan created EHT's computational and data processing
 infrastructure and continues to lead it to this day, along with EHT's
 Software and Data Compatibility Working Group.
 He is a Senior Investigator of
@@ -59,12 +59,12 @@ a Data Science Fellow, and a member of the Applied Mathematics
 Program.
 In addition to pioneering the use of GPU to accelerate the
 [modeling](https://www.youtube.com/watch?v=GSqvoy2I6SE)
-of black holes, Professor Chan also developed many new
+of black holes, Dr. Chan also developed many new
 [algorithms](https://github.com/rndsrc)
 to improve and accelerate modern research, built
 [cloud computing infrastructures](https://edu.google.com/why-google/customer-stories/eht-gcp/)
 for large observational data, and applied machine learning algorithms
 to speed up and automate data processing.
-Professor Chan has taught and mentored in subjects of machine
+Dr. Chan has taught and mentored in subjects of machine
 learning, numerical analysis, cloud computing, and quantum computing,
 and is an avid hiker.
