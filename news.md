@@ -1,4 +1,4 @@
-# On the News
+# In the News
 
 My research that showed up on the news through out the years.
 Last updated 2019/09/10.
