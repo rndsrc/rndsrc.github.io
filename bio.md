@@ -37,7 +37,7 @@ Publications:
 </tr>
 </table>
 
-[Chi-kwan Chan (CK)](https://rndsrc.dev/)
+Dr. [Chi-kwan Chan (CK)](https://rndsrc.dev/)
 is an
 [Associate Astronomer/Research Professor](https://www.as.arizona.edu/people/faculty/chi-kwan-chan)
 at Steward Observatory and the Department of Astronomy, University of
@@ -49,9 +49,9 @@ He recently led the
 of the computational and theoretical modeling/interpretation of our
 black hole, Sgr A*.
 Dr. Chan created EHT's computational and data processing
-infrastructure and continues to lead it to this day, along with EHT's
-Software and Data Compatibility Working Group.
-He is a Senior Investigator of
+infrastructure and continues to manage it to this day, along with
+leading EHT's Software and Data Compatibility Working Group. He was a
+Senior Investigator, now Principal Investigator, of
 [Black Hole PIRE](https://bhpire.arizona.edu/),
 a leader of the Theoretical Astrophysics Program
 [TAP](https://tap.arizona.edu/working-groups/),
